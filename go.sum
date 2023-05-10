@@ -1,4 +1,6 @@
 github.com/AVM-tiket/AVM-GO-COMMON/a v1.1.0 h1:xbOpjXT+uyHBFXGvwLVFz1uvgfpWJ0eF0fFzcrozh38=
 github.com/AVM-tiket/AVM-GO-COMMON/a v1.1.0/go.mod h1:qN58oey51lZ/Mec0khwaJtI92VMYNw+L0/zmXipapJQ=
+github.com/AVM-tiket/AVM-GO-COMMON/b v1.1.0 h1:M6hceDeuzS95bqUBM4RscA4mM4x+M6y3Yfp6B7C11j4=
+github.com/AVM-tiket/AVM-GO-COMMON/b v1.1.0/go.mod h1:aEPfE6SvJU+Y6UiR7/ExAZF9nBZ5cmODIPpX0CVD37E=
 github.com/AVM-tiket/AVM-GO-COMMON/pkg/c v1.0.0 h1:hgFRXD5tb1YqaWJ16ZrkaySbIEj2QwVRL3K262oa4Jw=
 github.com/AVM-tiket/AVM-GO-COMMON/pkg/c v1.0.0/go.mod h1:R7UXcNo2IsRBCwMLCeX1UXUDprYuZOpthXTu7dII6cw=
