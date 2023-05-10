@@ -6,4 +6,7 @@ require (
 	github.com/AVM-tiket/AVM-GO-COMMON/a v1.1.0
 	github.com/AVM-tiket/AVM-GO-COMMON/b v1.1.0
 	github.com/AVM-tiket/AVM-GO-COMMON/pkg/c v1.0.0
+	github.com/AVM-tiket/AVM-GO-COMMON/pkg/d v0.0.0-00010101000000-000000000000
 )
+
+replace github.com/AVM-tiket/AVM-GO-COMMON/pkg/d => ./pkg/d
