@@ -1,7 +1,7 @@
 package a
 
 import (
-	v1 "github.com/AVM-tiket/AVM-GO-COMMON/a"
+	v1 "github.com/AVM-tiket/AVM-LAB-GOMOD/a"
 )
 
 func Echo(s string) string {

@@ -3,10 +3,10 @@ package main
 import (
 	"fmt"
 
-	"github.com/AVM-tiket/AVM-GO-COMMON/a"
-	"github.com/AVM-tiket/AVM-GO-COMMON/b"
-	"github.com/AVM-tiket/AVM-GO-COMMON/pkg/c"
-	"github.com/AVM-tiket/AVM-GO-COMMON/pkg/d"
+	"github.com/AVM-tiket/AVM-LAB-GOMOD/a"
+	"github.com/AVM-tiket/AVM-LAB-GOMOD/b"
+	"github.com/AVM-tiket/AVM-LAB-GOMOD/pkg/c"
+	"github.com/AVM-tiket/AVM-LAB-GOMOD/pkg/d"
 )
 
 func main() {
