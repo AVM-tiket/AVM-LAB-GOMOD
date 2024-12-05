@@ -1,4 +1,4 @@
-module github.com/AVM-tiket/AVM-LAB-GOMOD
+module github.com/AVM-tiket/AVM-LAB-GOMOD/cmd/main
 
 go 1.20
 
@@ -9,4 +9,4 @@ require (
 	github.com/AVM-tiket/AVM-LAB-GOMOD/pkg/d v0.0.0-00010101000000-000000000000
 )
 
-replace github.com/AVM-tiket/AVM-LAB-GOMOD/pkg/d => ./pkg/d
+replace github.com/AVM-tiket/AVM-LAB-GOMOD/pkg/d => ../../pkg/d
