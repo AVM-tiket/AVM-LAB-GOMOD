@@ -1,6 +1,6 @@
-github.com/AVM-tiket/AVM-GO-COMMON/a v1.1.0 h1:xbOpjXT+uyHBFXGvwLVFz1uvgfpWJ0eF0fFzcrozh38=
-github.com/AVM-tiket/AVM-GO-COMMON/a v1.1.0/go.mod h1:qN58oey51lZ/Mec0khwaJtI92VMYNw+L0/zmXipapJQ=
-github.com/AVM-tiket/AVM-GO-COMMON/b v1.1.0 h1:M6hceDeuzS95bqUBM4RscA4mM4x+M6y3Yfp6B7C11j4=
-github.com/AVM-tiket/AVM-GO-COMMON/b v1.1.0/go.mod h1:aEPfE6SvJU+Y6UiR7/ExAZF9nBZ5cmODIPpX0CVD37E=
-github.com/AVM-tiket/AVM-GO-COMMON/pkg/c v1.0.0 h1:hgFRXD5tb1YqaWJ16ZrkaySbIEj2QwVRL3K262oa4Jw=
-github.com/AVM-tiket/AVM-GO-COMMON/pkg/c v1.0.0/go.mod h1:R7UXcNo2IsRBCwMLCeX1UXUDprYuZOpthXTu7dII6cw=
+github.com/AVM-tiket/AVM-LAB-GOMOD/a v1.2.0 h1:9snavVsFhSxt6ct8YVlIi3MTJqWGJSFVMOeCT4s0VCM=
+github.com/AVM-tiket/AVM-LAB-GOMOD/a v1.2.0/go.mod h1:jIRh497t/jOzMQCCXZlDbbAKBKodjH5jkpsWdDpWhnY=
+github.com/AVM-tiket/AVM-LAB-GOMOD/b/v2 v2.1.0 h1:InyTPW5f2FpUAMzZT0ofCyyNNzarUe6CmIP0Yej25eg=
+github.com/AVM-tiket/AVM-LAB-GOMOD/b/v2 v2.1.0/go.mod h1:9yh0hlnv3t16Nf2/ylcOvkxZ+Mx+obyhWYvy9pWEEPc=
+github.com/AVM-tiket/AVM-LAB-GOMOD/pkg/c v1.1.0 h1:07Y8Zxa+4YjLyMCF+xkcYLw21MLw5P7Z3/ZO7Fuwjhg=
+github.com/AVM-tiket/AVM-LAB-GOMOD/pkg/c v1.1.0/go.mod h1:8nCKqkt6Eop+Ks/30r36S0pvT7qM4AQBAoiCvDwhaxE=
