@@ -5,9 +5,11 @@ use (
 	./a/v2
 	./b/v2
 	./cmd/main
+	./cmd/nogosum
 	./cmd/pruned
 	./direct
 	./indirect
+	./nogosum
 	./pkg/c
 	./pkg/d
 )
