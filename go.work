@@ -4,6 +4,7 @@ use (
 	./a
 	./a/v2
 	./b/v2
+	./cmd/importnogosum
 	./cmd/main
 	./cmd/nogosum
 	./cmd/pruned
