@@ -1,0 +1,13 @@
+go 1.20
+
+use (
+	./a
+	./a/v2
+	./b/v2
+	./cmd/main
+	./cmd/pruned
+	./direct
+	./indirect
+	./pkg/c
+	./pkg/d
+)
